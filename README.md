@@ -1,5 +1,11 @@
 # [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/Thomas-George-T/IBM-Data-Science-Professional-Certification/master/ibm.svg" title="IBM logo" alt = "IBM logo" />
+</p>
+
+
 ### About this Professional Certificate
 
 Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate from IBM will help anyone interested in pursuing a career in data science or machine learning develop career-relevant skills and experience. 
@@ -18,22 +24,22 @@ This Professional Certificate has a strong emphasis on applied learning. Except 
 
 The courses enlisted in this specialization are as follows:
 
-- 1) [What is Data Science?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)__
+1) [What is Data Science?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)__
 
-- 2) [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science)__
+2) [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science)__
 
-- 3) [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)__
+3) [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)__
 
-- 4) [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science)__
+4) [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science)__
 
-- 5) [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science)__
+5) [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science)__
 
-- 6) [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science)__
+6) [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science)__
 
-- 7) [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-science)__
+7) [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-science)__
 
-- 8) [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science)__
+8) [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science)__
 
-- 9) [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science)__
+9) [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science)__
 
-- 10) [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science)__
+10) [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science)__
